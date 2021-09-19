@@ -12,13 +12,13 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![JUnit 5](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
 ![Circle CI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=circleci)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=430098)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)
 ![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-05122A?style=flat&logo=apachenetbeanside)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
@@ -32,7 +32,9 @@
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=travisci)
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven)
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
 
 <!--
 **LeftistTachyon/LeftistTachyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
