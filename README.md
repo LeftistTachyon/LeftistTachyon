@@ -17,6 +17,22 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
 ![Circle CI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=circleci)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)
+![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-05122A?style=flat&logo=apachenetbeanside)
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
+![Autodesk Fusion 360](https://img.shields.io/badge/-Autodesk%20Fusion%20360-05122A?style=flat&logo=autodesk)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-05122A?style=flat&logo=thymeleaf&logoColor=005F0F)
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=travisci)
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)
 
 <!--
 **LeftistTachyon/LeftistTachyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
