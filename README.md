@@ -35,6 +35,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven&logoColor=C71A36)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 
 <!--
 **LeftistTachyon/LeftistTachyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
