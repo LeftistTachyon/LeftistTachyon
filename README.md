@@ -33,7 +33,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
-![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=apachemaven&logoColor=C71A36)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
 
 <!--
