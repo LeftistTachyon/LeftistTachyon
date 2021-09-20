@@ -6,6 +6,9 @@ This is where I store everything notable that I've done, spanning from my coding
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftistTachyon&layout=compact&theme=dracula)
 
 ## My skills and experience:
+<details>
+  <summary>Click to show!</summary>
+  
 #### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
@@ -51,6 +54,7 @@ This is where I store everything notable that I've done, spanning from my coding
 #### Game Development
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
   ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
+</details>
 
 <!--
 **LeftistTachyon/LeftistTachyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
